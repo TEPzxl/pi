@@ -123,3 +123,9 @@ For release preparation, publishing, verification, or recovery, load and follow 
 ## User Override
 
 If the user's instructions conflict with any rule in this document, ask for explicit confirmation before overriding. Only then execute their instructions.
+
+## Source Learning
+
+- For Pi source-learning sessions only, before starting or resuming (including after context compaction), read [LEARNING_ROADMAP.zh.md](LEARNING_ROADMAP.zh.md), especially Current Progress and Resume.
+- Follow the current stage and next step; after each learning segment, record only verified progress. Reading material or hearing an explanation is not proof of mastery; never report unrun tests as passed.
+- This is a learning guide, not authorization for implementation, and does not govern ordinary development tasks.
